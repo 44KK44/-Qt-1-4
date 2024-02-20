@@ -15,3 +15,5 @@ WindowsExclusion：通过运用信号与槽实现两个窗口互斥出现，具�
 QtCoordinate：Qt的坐标系统以及内存回收机制实验
 
 QMainWindow：核心控件和浮动窗口
+
+Dialog：各种对话框
